@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "172.24.208.1",
+            "port": 3306,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "EMPT",
+            "database": "jedi_temple",
+            "username": "wsl"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "reimagined-workers",
+  "version": "1.0.0",
+  "description": "a simple employee manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaguirre7/reimagined-workers.git"
+  },
+  "keywords": [
+    "cli",
+    "program"
+  ],
+  "author": "aaguirre7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaguirre7/reimagined-workers/issues"
+  },
+  "homepage": "https://github.com/aaguirre7/reimagined-workers#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "inquirer": "^8.2.1",
+    "mysql2": "^2.3.3"
+  }
+}
