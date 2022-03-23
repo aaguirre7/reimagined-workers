@@ -18,5 +18,6 @@ db.connect(err => {
     console.log("*                                 *")
     console.log("***********************************")
     startAPP();
+    return
   };
 
