@@ -126,6 +126,7 @@ npm start
 
 ```
 ### Video
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/95892904/159818138-cccfb5a0-e444-45a9-89e7-2fd30aa8c173.gif)
 
 -------------------------
 
